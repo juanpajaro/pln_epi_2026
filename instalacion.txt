@@ -1,7 +1,10 @@
+los siguientes codigos deben correrse en la consola de comando, en un ambiente de linux, usando VSC
 pip install quickumls
 pip install ipykernel
 pip install spacy
 pip install medspacy
+
+solo si sale el error al cargar un codigo pipe en español en blanco
 conda run -n env_pln_v5 pip install --upgrade --force-reinstall spacy medspacy
 
 modelos en español spacy
