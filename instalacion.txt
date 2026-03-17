@@ -3,3 +3,6 @@ pip install ipykernel
 pip install spacy
 pip install medspacy
 conda run -n env_pln_v5 pip install --upgrade --force-reinstall spacy medspacy
+
+modelos en español spacy
+python -m spacy download es_core_news_sm
