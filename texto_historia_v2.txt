@@ -1,0 +1,59 @@
+Fecha de Admisión: [2573-5-30]              Fecha de Alta: [2573-7-1]
+
+Fecha de Nacimiento: [2498-8-19]            Sexo: F
+
+Servicio: CIRUGÍA
+
+Alergias:
+Hidroclorotiazida
+
+Médico Tratante: [Nombre1 (LF) 1893]
+Motivo de Consulta:
+Dolor abdominal
+
+Procedimiento Quirúrgico o Invasivo Mayor:
+Línea PICC [6-25]
+CPRE con esfinterotomía [5-31]
+
+Historia de la Enfermedad Actual:
+Mujer de 74 años con DM tipo 2 y accidente cerebrovascular (ACV) reciente que afecta su habla, quien se presenta con 2 días de dolor abdominal. Las imágenes no muestran evidencia de metástasis. No está recibiendo quimioterapia.
+
+Antecedentes Médicos:
+
+Cáncer de colon diagnosticado en [2554], tratado con hemicolectomía, radioterapia (XRT) y quimioterapia. Última colonoscopia mostró: [Pendiente]. El último CEA fue de un rango de 8 (disminuyó de 9).
+
+Diabetes Mellitus Tipo II
+
+Hipertensión
+
+Historia Social:
+Casada, ex consumidora de tabaco. Sin consumo de alcohol o drogas.
+
+Historia Familiar:
+Madre con ACV a la edad de 82 años. Sin muertes prematuras.
+2 hijas - sanas.
+
+Resumen del Curso Hospitalario:
+La Sra. [Apellido del paciente 2004] fue admitida el [2573-5-30]. La ecografía al momento de la admisión demostró dilatación del conducto pancreático y vesícula biliar edematosa. Fue ingresada en la Unidad de Cuidados Intensivos (UCI).
+
+Medicamentos al Alta:
+
+Nitrato de Miconazol 2 % Polvo Sig: Una (1) aplicación tópica BID (2 veces al día) según sea necesario.
+
+Heparina Sódica (Porcina) 5,000 unidades/mL Solución Sig: Una (1) inyección TID (3 veces al día).
+
+Acetaminofén 160 mg/5 mL Elixir Sig: Uno (1) PO cada 4-6 horas (Q4-6H) según sea necesario.
+
+Diagnóstico al Alta:
+DM Tipo 2
+Pancreatitis
+HTA
+Antecedente de dificultad respiratoria por aspiración
+
+Instrucciones al Alta:
+La paciente puede ducharse. Por favor, llame a su cirujano o regrese a la sala de emergencias si experimenta fiebre mayor a 38.6 C (101.5 F), náuseas, vómitos, dolor abdominal, dificultad para respirar o cualquier cambio significativo en su condición médica.
+
+Completado por: [Nombre11 2010] [Apellido 2011] MD [Número MD 2012] [2573-7-1] @ 14:04
+Firmado electrónicamente por: DR. [Nombre8] [Apellido]
+el: VIE [2573-7-2] 8:03 AM
+(Fin del Reporte)
